@@ -1,0 +1,3 @@
+print art
+print third
+Print  6
