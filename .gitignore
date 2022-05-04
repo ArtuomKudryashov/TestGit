@@ -1,0 +1,9 @@
+
+### Python template
+# Byte-compliled / optimized / DDL files 
+_pycashe_/     Гит не будет обращать внимания на папку pycashe
+*.py[cod]  *Гит будет игнорировать файлы с расширением py pc po pd
+docker-compose.yaml игнорируется  этот файл
+log/	 игнорируется вся папка log
+resources/products.json игнорируется  папка products.json внутри каталога resources
+
