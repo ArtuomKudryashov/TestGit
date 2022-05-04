@@ -1,3 +1,2 @@
-print art
-print third
-Print  6
+Code from Github
+
